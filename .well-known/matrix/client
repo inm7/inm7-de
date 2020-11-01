@@ -1,0 +1,8 @@
+{
+    "m.homeserver": {
+        "base_url": "https://inm7.modular.im"
+    },
+    "m.identity_server": {
+        "base_url": "https://vector.im"
+    }
+}
